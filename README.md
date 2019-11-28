@@ -23,7 +23,8 @@ optional arguments:
   
   -s [STARTIP], --startip [STARTIP] Start IP (This argument is required)
   
-  -e [ENDIP], --endip [ENDIP] End IP (Optional argument. For single lookup use only -s. -o options is not allowed for single lookup)
+  -e [ENDIP], --endip [ENDIP] End IP 
+  (Optional argument. For single lookup use only -s or --startip. -o option is not allowed for single lookup)
   
   -o [OUTPUT], --output [OUTPUT] Output results to a file e.g results.txt
   
