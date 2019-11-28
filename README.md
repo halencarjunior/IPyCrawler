@@ -1,4 +1,4 @@
-# IPyCrawl
+# IPyCrawler
 
 Simple Script for Lookup hostnames in IP Ranges.
 This tool is based in the Old and Super Useful ipcrawl.
