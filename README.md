@@ -15,13 +15,12 @@ optional arguments:
 
   -h, --help            show this help message and exit
   
-  -s [STARTIP], --startip [STARTIP]
-                        Start IP
-  -e [ENDIP], --endip [ENDIP]
-                        End IP
-  -o [OUTPUT], --output [OUTPUT]
-                        Output results to a file e.g results.txt
+  -s [STARTIP], --startip [STARTIP] Start IP
+  
+  -e [ENDIP], --endip [ENDIP] End IP
+  
+  -o [OUTPUT], --output [OUTPUT] Output results to a file e.g results.txt
   
   --version             show program's version number and exit
 
-![IPyCrawler](https://imgur.com/a/ISehKhy)
+![IPyCrawler](https://imgur.com/N2tHobe)
