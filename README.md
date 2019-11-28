@@ -1,4 +1,4 @@
-# IPyCrawler
+# IPyCrawl
 
 Simple Script for Lookup hostnames in IP Ranges.
 This tool is based in the Old and Super Useful ipcrawl.
@@ -11,6 +11,8 @@ This tool is based in the Old and Super Useful ipcrawl.
   * $ pip install ipaddress
 
 ## Usage
+
+$ python3 ipcrawler.py -s <startip> -e <endip> -o results.txt
 
 optional arguments:
 
