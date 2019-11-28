@@ -15,7 +15,7 @@ This tool is based in the Old and Super Useful ipcrawl.
 
 ## Usage
 
-$ python3 ipcrawler.py -s <startip> -e <endip> -o results.txt
+  $ python3 ipcrawler.py -s <startip> -e <endip> -o results.txt
 
 optional arguments:
 
