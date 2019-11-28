@@ -15,7 +15,7 @@ This tool is based in the Old and Super Useful ipcrawl.
 
 ## Usage
 
-  `$ python3 ipcrawl.py -s 1.1.1.1 -e 1.1.1.2 -o results.txt`
+  `$ python3 ipcrawl.py -s 1.1.1.1 -e 1.1.1.2 -o results.txt -c`
 
 optional arguments:
 
@@ -26,7 +26,9 @@ optional arguments:
   -e [ENDIP], --endip [ENDIP] End IP 
   (Optional argument. For single lookup use only -s or --startip. -o option is not allowed for single lookup)
   
-  -o [OUTPUT], --output [OUTPUT] Output results to a file e.g results.txt
+  -o [OUTPUT], --output [OUTPUT] Output results to a file e.g results.txt or results.csv in case of -c option chosen
+
+  -c, --csv Output results to a csv format
   
   --version             show program's version number and exit
 
