@@ -15,11 +15,11 @@ This tool is based in the Old and Super Useful ipcrawl.
 
 ## Usage
 
-  $ python3 ipcrawler.py -s <startip> -e <endip> -o results.txt
+  $ python3 ipcrawl.py -s 1.1.1.1 -e 1.1.1.2 -o results.txt
 
 optional arguments:
 
-  -h, --help            show this help message and exit
+  -h, --help show this help message and exit
   
   -s [STARTIP], --startip [STARTIP] Start IP (This argument is required)
   
