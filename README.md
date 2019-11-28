@@ -15,7 +15,7 @@ This tool is based in the Old and Super Useful ipcrawl.
 
 ## Usage
 
-  $ python3 ipcrawl.py -s 1.1.1.1 -e 1.1.1.2 -o results.txt
+  `$ python3 ipcrawl.py -s 1.1.1.1 -e 1.1.1.2 -o results.txt`
 
 optional arguments:
 
