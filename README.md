@@ -10,8 +10,10 @@ This tool is based in the Old and Super Useful ipcrawl.
 
 - python3+
 - ipaddress
+- dnspython
   
   * $ pip install ipaddress
+  * $ pip install dnspython
 
 ## Usage
 
