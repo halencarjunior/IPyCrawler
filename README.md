@@ -23,4 +23,4 @@ optional arguments:
   
   --version             show program's version number and exit
 
-![IPyCrawler](https://imgur.com/N2tHobe)
+![IPyCrawler](https://imgur.com/N2tHobe.jpg)
