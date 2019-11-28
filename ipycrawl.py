@@ -26,7 +26,10 @@ def save_file(name_file, info):
 
 def lookup_host(start_ip,end_ip,name_file=None,output=False,csv=False):
     print("[.] Starting Check in range of hosts from {} to {} \n" .format(ipaddress.IPv4Address(start_ip),ipaddress.IPv4Address(end_ip)))
-
+    if(csv==True):
+        print("[i] Exporting in csv format")
+    else:
+        print("[i] Exporting in normal format")
     for ip_int in range(int(start_ip), int(end_ip)+1):
         try:
             hostName = socket.gethostbyaddr(str(ip_int))
